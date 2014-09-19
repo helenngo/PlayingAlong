@@ -68,3 +68,4 @@ public class Main {
     }
 }
 //try using the bug thing
+//commit messages tell other users to why you made those changes
